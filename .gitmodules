@@ -1,4 +1,3 @@
 [submodule "third_party/tint"]
 	path = third_party/tint
 	url = https://dawn.googlesource.com/tint
-	branch = chromium/4896
